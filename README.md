@@ -1,2 +1,2 @@
-# Image-Processing
+# Image Processing Tutorials
 Image processing with OpenCV through our structured tutorials on Jupyter Notebook. Learn to manipulate and analyze images  from basic operations to advanced techniques.
